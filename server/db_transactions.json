@@ -1,0 +1,22 @@
+{
+  "transactions": [
+    {
+      "name": "hello",
+      "type": "income",
+      "amount": 453,
+      "id": 1
+    },
+    {
+      "name": "gfh",
+      "type": "expense",
+      "amount": 54,
+      "id": 2
+    },
+    {
+      "name": "tghyrey",
+      "type": "income",
+      "amount": 56,
+      "id": 3
+    }
+  ]
+}
